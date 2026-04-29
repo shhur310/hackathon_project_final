@@ -1,0 +1,11 @@
+{
+  "individual_aucs": {
+    "lgbm": 0.7402285698051317,
+    "xgb": 0.7404112233970138,
+    "cat": 0.7403722611746417
+  },
+  "final_auc": 0.740743491338283,
+  "target_met": false,
+  "elapsed_sec": 1917.0,
+  "n_features": 210
+}
