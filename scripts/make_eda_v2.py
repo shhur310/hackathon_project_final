@@ -1,7 +1,3 @@
-"""
-Generate notebooks/eda_master_v2.ipynb implementing all 10 prompts from ChatGPT analysis.
-Run this script ONCE to produce the notebook.
-"""
 import json
 from pathlib import Path
 
